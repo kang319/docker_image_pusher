@@ -1,4 +1,4 @@
-qbittorrent4.4.5
+linuxserver/qbittorrent:latest
 --alpine
 python:alpine3.19
 --kasmweb/nginx:1.25.3
